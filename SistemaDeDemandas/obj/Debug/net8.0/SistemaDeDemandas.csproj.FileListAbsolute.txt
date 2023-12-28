@@ -1,0 +1,14 @@
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\bin\Debug\net8.0\SistemaDeDemandas.exe
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\bin\Debug\net8.0\SistemaDeDemandas.deps.json
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\bin\Debug\net8.0\SistemaDeDemandas.runtimeconfig.json
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\bin\Debug\net8.0\SistemaDeDemandas.dll
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\bin\Debug\net8.0\SistemaDeDemandas.pdb
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\SistemaDeDemandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\SistemaDeDemandas.AssemblyInfoInputs.cache
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\SistemaDeDemandas.AssemblyInfo.cs
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\SistemaDeDemandas.csproj.CoreCompileInputs.cache
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\SistemaDeDemandas.dll
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\refint\SistemaDeDemandas.dll
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\SistemaDeDemandas.pdb
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\SistemaDeDemandas.genruntimeconfig.cache
+C:\Users\Embras\Desktop\PinkCode\SistemaDeDemandas\obj\Debug\net8.0\ref\SistemaDeDemandas.dll
